@@ -1,4 +1,4 @@
-# resume_screening
+# Resume Screening
 
 AI-Powered Resume Analyzer
 
