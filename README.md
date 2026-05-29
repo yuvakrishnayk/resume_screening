@@ -1,13 +1,5 @@
 # ScreenShots
-<img width="320" height="700" alt="WhatsApp Image 2026-05-29 at 2 23 10 PM" src="https://github.com/user-attachments/assets/439920b6-74e7-44a4-a56f-33d1ba3e3f66" />
-<img width="320" height="700" alt="WhatsApp Image 2026-05-29 at 2 23 10 PM (1)" src="https://github.com/user-attachments/assets/dbc35185-d919-48aa-b119-2b511bac2c8c" />
-<img width="320" height="700" alt="WhatsApp Image 2026-05-29 at 2 23 10 PM (2)" src="https://github.com/user-attachments/assets/f06e0849-d142-4c4a-af6a-c1da1efbff50" />
-<img width="320" height="700" alt="WhatsApp Image 2026-05-29 at 2 23 13 PM" src="https://github.com/user-attachments/assets/55eb2375-6b51-4dc8-a30d-557cdbbb7b63" />
-<img width="320" height="700" alt="WhatsApp Image 2026-05-29 at 2 23 11 PM" src="https://github.com/user-attachments/assets/9173cafb-430f-45da-9f80-6957be322629" />
-<img width="320" height="700" alt="WhatsApp Image 2026-05-29 at 2 23 11 PM (1)" src="https://github.com/user-attachments/assets/7f8d99a4-4418-4718-a156-373444722bf7" />
-<img width="320" height="700" alt="WhatsApp Image 2026-05-29 at 2 23 12 PM" src="https://github.com/user-attachments/assets/a07f599a-987f-4f34-8c93-6f46a5056a3a" />
-<img width="320" height="700" alt="WhatsApp Image 2026-05-29 at 2 23 12 PM (1)" src="https://github.com/user-attachments/assets/31152a53-4fea-4034-aba8-261e0fdec665" />
-<img width="320" height="700" alt="WhatsApp Image 2026-05-29 at 2 23 12 PM (2)" src="https://github.com/user-attachments/assets/34700e16-6b55-4698-b887-fcf385375801" />
+https://drive.google.com/file/d/1jBDG7NnIzMPMBofXXyZ298eC8QBRR31z/view?usp=sharing
 
 # Resume Screening
 
